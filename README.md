@@ -19,6 +19,7 @@ Simple clones of Google Search, Google Image Search, and Google Advanced Search
 - The CSS you write should match Google’s own aesthetics as best as possible.
 
 ## Video
-https://github.com/nvanzandt/CS50W-Project0-Search/assets/135445498/a89bb244-0c97-4826-9785-1c8528fb4beb
+https://github.com/nvanzandt/CS50W-Project0-Search/assets/135445498/e8ebd335-04f0-4d09-a387-c6b3ec1cb191
+
 
 
