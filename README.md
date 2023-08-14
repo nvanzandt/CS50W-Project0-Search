@@ -1,5 +1,5 @@
 # CS50W-Search
-A project from Harvard's CS50's Web Programming course. 
+A project from Harvard's CS50 Web Programming course. 
 
 The goal was to create pages for Google Search, Google Image Search, and Google Advanced Search  which mimic the design and functionality of the actual pages.
 
