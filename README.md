@@ -1,6 +1,7 @@
-# CS50W-Project0-Search
-Simple clones of Google Search, Google Image Search, and Google Advanced Search
+# CS50W-Search
+A project from Harvard's CS50's Web Programming course. 
 
+The goal was to create pages for Google Search, Google Image Search, and Google Advanced Search  which mimic the design and functionality of the actual pages.
 
 ## Assignment Specification
 - Your website should have at least three pages: one for Google Search, one for Google Image Search, and one for Google Advanced Search.
